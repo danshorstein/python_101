@@ -1,0 +1,5 @@
+print('************************')
+print('Welcome to my hello app!')
+print()
+name = input('What is your name? ')
+print(f'Hello, {name}!')
