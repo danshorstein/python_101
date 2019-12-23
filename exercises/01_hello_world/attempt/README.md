@@ -5,4 +5,5 @@ This is a very simple hello world exercise, intended to provide a brief introduc
 ## Key Python Concepts
 * print
 * input
-* f strings
+* string concatenation with +
+* running python programs from vs code
