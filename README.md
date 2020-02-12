@@ -13,5 +13,5 @@ This course will focus on the basics of Python programming language by taking yo
 ### Part 2: Python for Data Analysis – focuses on Python skills geared towards data scientists 
 1.	Reading a data set into Python using pandas – 10 mins
 2.	Cleaning a data set – 10 mins
-3.	Reconciliation and analysis – 30 mins
+3.	Analyzing a data set – 30 mins
 4.	Data viz example – 10 mins
