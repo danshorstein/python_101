@@ -7,7 +7,7 @@ This course will focus on the basics of Python programming language by taking yo
 ### Part 1: Foundational Python – focuses on skills that every python user should know
 1.	Build a Hello world app (print, variables, input, string formatting) - 20 minutes
 2.	Build a Simple calculator (functions, basic math, dictionaries, logic flow) - 20 minutes
-3.	Build a simple to do list (lists, while loop, ...) - 20 minutes
+3.	Build a simple to do list (file io, lists, while loop, ...) - 20 minutes
 4.	Build an API client (requests, json) - 20 minutes
 
 ### Part 2: Python for Data Analysis – focuses on Python skills geared towards data scientists 
